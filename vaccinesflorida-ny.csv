@@ -2,10 +2,10 @@ amount,state,vaccines
 1694500,Florida,Janssen
 10271620,Florida,Moderna
 13339815,Florida,Pfizer
-9843296,Florida,18+ Vaccinated
-10166351,Florida,Vaccinated
+9843296,Florida,Vaccinated +18
+10166351,Florida,Vaccinated all
 1253900,New York State,Janssen
 10003440,New York State,Moderna
 13154085,New York State,Pfizer
-10346688,New York State,18+ Vaccinated
-10830744,New York State,Vaccinated
+10346688,New York State,Vaccinated +18
+10830744,New York State,Vaccinated all
